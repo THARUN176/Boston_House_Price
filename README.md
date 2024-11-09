@@ -89,6 +89,13 @@ This route receives form data from the HTML interface. The data is processed, sc
 
 **Usage**: Submit the form on the homepage to get the prediction.
 
+## Application Interface
+
+Below is a screenshot of the application interface where users can input various features to predict house prices:
+
+![Boston House Price Prediction Interface](image.png)
+
+
 ## Requirements
 
 Make sure you have the following Python libraries installed:
