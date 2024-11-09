@@ -93,7 +93,7 @@ This route receives form data from the HTML interface. The data is processed, sc
 
 Below is a screenshot of the application interface where users can input various features to predict house prices:
 
-![Boston House Price Prediction Interface](image.png)
+![Boston House Price Prediction Interface](image.PNG)
 
 
 ## Requirements
